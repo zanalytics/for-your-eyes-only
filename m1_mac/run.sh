@@ -7,8 +7,6 @@ echo STARTING SETTING UP !!!
 
 zsh homebrew/install.sh
 
-zsh git/install.sh
-zsh iterm/install.sh
 zsh vscode/install.sh
 
 zsh pyenv/install.sh
