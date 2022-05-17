@@ -13,8 +13,7 @@ echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 # INSTALL PYTHON 3.8 and 3.9
 ##################################################
 
-echo INSTALL PYTHON 3.8 and 3.9
-pyenv install 3.8.5
+echo INSTALL PYTHON 3.9
 pyenv install 3.9.5
 
 echo SET PYTHON 3.9 as DEFAULT
