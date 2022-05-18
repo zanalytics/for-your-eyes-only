@@ -8,5 +8,6 @@ go version
 docker --version
 aws --version
 minikube version
+java --version
 
 echo COMPLETED CHECKS !!!
